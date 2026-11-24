@@ -1,0 +1,16 @@
+# Build output & runtime data
+dist/
+bin/
+obj/
+*.exe
+*.pdb
+*.tmp
+countdown_data.json
+self_test_result.txt
+*.csv
+
+# IDE / Editor
+.vs/
+.vscode/
+*.user
+*.suo
